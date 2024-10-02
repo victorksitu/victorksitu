@@ -1,4 +1,4 @@
-- 📚 Software Engineering | University of Ottawa
+- 📚 Hi, I'm Victor and I'm currently studying Software Engineering at the University of Ottawa.
 - 🖥️ I currently am proficient at coding in Java, Python, html, CSS.
 - 🌱 I’m currently learning javaScript, and Android Studio and plan to learn C++ in the near future.
 
