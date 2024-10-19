@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-<strong>Projects</strong>
+<strong>Projects:</strong> <br/>
 - Frontend website with functioning contact form: https://tutor-website-bdigh013m-victor-situs-projects.vercel.app/index.html#
 
 <!---
