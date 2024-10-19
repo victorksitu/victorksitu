@@ -2,9 +2,8 @@
 - 🖥️ I currently am proficient at coding in Java, Python, html, CSS.
 - 🌱 I’m currently learning javaScript, and Android Studio and plan to learn C++ in the near future.
 
-<p>
-  
-</p>
+<br/>
+<br/>
 <strong>Projects</strong>
 - Frontend website with functioning contact form: https://tutor-website-bdigh013m-victor-situs-projects.vercel.app/index.html#
 
