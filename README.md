@@ -5,7 +5,11 @@
 <br/>
 <br/>
 <strong>Projects:</strong> <br/>
-- Frontend website with functioning contact form: https://tutor-website-bdigh013m-victor-situs-projects.vercel.app/index.html#
+Frontend websites: <br/>
+https://tutor-website-bdigh013m-victor-situs-projects.vercel.app/index.html# <br/>
+https://bem-methodology-website.vercel.app/ <br/>
+https://basicwebsite1vsitu.netlify.app/
+
 
 <!---
 victorksitu/victorksitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
